@@ -1,0 +1,1 @@
+**To hold notes about new projects, things to learn and other...**
