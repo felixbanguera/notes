@@ -12,14 +12,14 @@ Las sgtes son preguntas que me ayudaron a comprender las posibles aplicaciones e
 
 1. 
 Mejoras en mi equipo: 
-	- Comunicación
-	- Compromiso
-	- Definición de procesos de desarrollo y pruebas
+- Comunicación
+- Compromiso
+- Definición de procesos de desarrollo y pruebas
 
 Áreas en las que el camio produciría un impacto significativo:
-	- Comportamiento como equipo y fluidez en desarrollos.
-	- Efectividad sin reprocesos
-	- Resultados de frente al cliente
+- Comportamiento como equipo y fluidez en desarrollos.
+- Efectividad sin reprocesos
+- Resultados de frente al cliente
 
 2. 
 - Definir mis procesos personales
