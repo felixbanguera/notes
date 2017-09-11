@@ -23,3 +23,5 @@ A tener en cuenta:
 - Roles y responsabilidades definidas de las personas involucradas en el PAC
 - Claridad en la manera de cerrar brechas para mejorar resultados
 - Actitud de Liderazgo (Empoderado, Seguro, Inspirador)
+
+[In current work presentation](https://prezi.com/p/6br4v6u8-1vt/)
