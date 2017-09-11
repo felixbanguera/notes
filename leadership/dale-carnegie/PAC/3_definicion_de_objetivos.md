@@ -9,7 +9,7 @@ Se debe:
 
 **Mis objetivos fueron:**
 
-**1. Definición de Procesos: Establecer pasos, formatos o actividades que no estén definidos en los procesos de desarrllo y de pruebas, en los pryectos paralelos al proyecto principal para tener una planeación establecida en cada uno.**
+**1. Definición de Procesos: Establecer pasos, formatos o actividades que no estén definidos en los procesos de desarrollo y de pruebas, en los proyectos paralelos al proyecto principal para tener una planeación establecida en cada uno.**
 
 **2. Establecer planeación semanal: Establecer plan semanal de actividades generales por parte de las cabezas visibles del equipo y así poder tomar decisiones'rápidas en caso de eventualidades o cambios de rumbo.**
 
