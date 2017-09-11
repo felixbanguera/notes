@@ -3,11 +3,13 @@
 Las sgtes son preguntas que me ayudaron a comprender las posibles aplicaciones en el trabajo de las habilidades que desarrollaron y mejoraron con el programa. Aconsejo responderlas si se quiere lograr un objetivo a corto plazo y que sea medible como el PAC, aunque a manera personal creo que aplican también en todos los ambitos de la vida común.
 
 **Preguntas:**
+
 1. ¿Que considero que debería mejorar mi dpto y organización?¿Cuales son las áreas en las que un cambio produciría mas impacto significativo en los resultados?
 2. ¿Cuales son las tareas diarias en las que debo enfocarme para asegurar que aporto en estas áreas?
 3. ¿Qué me impide concentrarme en lograr estos resultados?(Por ejemplo, metas opuestas, manejo de quejas, falta de planeación, cometencias, habilidades personales...)
 
 **Respuestas:**
+
 1. 
 Mejoras en mi equipo: 
 	- Comunicación
