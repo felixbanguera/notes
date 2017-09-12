@@ -25,3 +25,5 @@ A tener en cuenta:
 - Actitud de Liderazgo (Empoderado, Seguro, Inspirador)
 
 [In current work presentation](https://prezi.com/p/6br4v6u8-1vt/)
+
+[ Click aquí Para ver la presentación](https://prezi.com/view/ETV1uwFvYMPAQYxw5ul6/)

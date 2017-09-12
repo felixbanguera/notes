@@ -47,7 +47,7 @@
 
 - Mi compromiso a futuro (sobre el plan de trabajo planteado) como líder es...
 
-  Mi compromiso a futuro como líder es ser capaz de crear una sinergía interna entre el liderazgo propio, de los demás, y de los procesos que lleven a los mejores resultados de manera que sea un referente a seguir no solo en mi equipo sino a YuxiGlobal, y porque no a personas externas a la empresa.
+  Mi compromiso a futuro como líder es ser capaz de crear una sinergía interna entre el liderazgo propio, de los demás, y de los procesos que lleven a los mejores resultados de manera que sea un referente a seguir no solo en mi equipo sino a YuxiGlobal, y porque no a personas externas a la empresa en el ámbito de IoT.
 
 - Cierre (Acción – Beneficio, Reflexión final, frase inspiradora, etc)
 
