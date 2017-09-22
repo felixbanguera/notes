@@ -18,4 +18,4 @@ Para poder llegar a comunicar efectivamente se deben trabajar ciertos aspectos, 
 - Mejorar la comunicación no verbal
 
 
-Dentro de lo visto en el programa se presento un método para comunicar eficiente y efectivamete que personalmente me dejó una gran enseñanza. El método se basa en que para transmitir alguna información de forma certera y al punto solo se deben mencionar tres aspectos: un(os) Incidente(s), una(s) Acción(es) y Beneficio(s) de las acciones, siendo el tema principal, las acciones. Este metodo lo llamamos el IAB y será descrito en la sección [IAB]().
+Dentro de lo visto en el programa se presento un método para comunicar eficiente y efectivamete que personalmente me dejó una gran enseñanza. El método se basa en que para transmitir alguna información de forma certera y al punto solo se deben mencionar tres aspectos: un(os) Incidente(s), una(s) Acción(es) y Beneficio(s) de las acciones, siendo el tema principal, las acciones. Este metodo lo llamamos el IAB y será descrito en la sección [IAB](https://github.com/felixbanguera/notes/blob/master/leadership/dale-carnegie/2da_sesion/iab.md).

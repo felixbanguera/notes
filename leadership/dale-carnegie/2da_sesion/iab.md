@@ -10,3 +10,6 @@ A -> sugerir o contar una acción a tomar, o que sucedió.
 
 B -> mostrar un beneficio, un resultado o una consecuencia de la acción anterior.
 
+
+Existe una [presentación](https://prezi.com/view/hTjbETLwKPDQ5ZbgypeN/) hecha para explicar el uso y el porqué del IAB.
+
